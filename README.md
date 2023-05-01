@@ -12,8 +12,3 @@ Eduardo Zaffari Monteiro - 12559490
 
 Lucas I. C. Ciziks - 12559472
 
----
-
-## Motivação
-
----
